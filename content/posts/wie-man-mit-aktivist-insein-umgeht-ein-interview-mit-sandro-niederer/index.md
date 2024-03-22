@@ -9,6 +9,10 @@ description = "Sandro Niederer erzählt uns, wie Aktivismus denn—positive Seit
 +++
 *Malak Hassan.*
 
+![](thumbnail_img_8661-min-1-.jpg)
+
+*Das Büro von Sandro Niederer und sein Team.*
+
 > *Sandro Niederer, transgender Mann (keine Pronomen/er),* 
 
 **Was ist die typische Erfahrung, beziehungsweise, eine Erfahrung die sehr oft vorkommt, wenn man interagiert mit Menschen in diesem Umfeld mit Transgender Communities]? Was ich mir vorgestellt habe wären zum Beispiel viele cisgender Personen, die das Ganze nicht ganz verstehen und Fragen stellen.**
