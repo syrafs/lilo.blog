@@ -4,6 +4,7 @@ date = "2024-03-19"
 draft = false
 pinned = false
 tags = ["Aktivismus", "TGNS", "Transgender-Rights"]
+image = "thumbnail_img_8661-min-1-.jpg"
 description = "Sandro Niederer erzählt uns, wie Aktivismus denn—positive Seiten und negative Seiten—realistisch ist."
 +++
 *Malak Hassan.*
