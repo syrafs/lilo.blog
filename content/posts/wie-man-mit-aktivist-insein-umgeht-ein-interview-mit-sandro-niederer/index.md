@@ -51,6 +51,6 @@ Für mich ist für mich sind es mehrere Sachen. Auf der einen Seite befindet sic
 
 Das dann professionell. Denke für mich persönlich. Ich liebe es, trans Menschen zu begleiten.
 
-**Das finde ich auch sehr schön! Was wäre ein Beispiel von Milestones, wo ihr diesen ersten Gedanken hattem?**
+**Das finde ich auch sehr schön! Was wäre ein Beispiel von Milestones, wo ihr diesen ersten Gedanken hatten?**
 
 Es wurde vor gut einem Jahr einfacher, Namen und Geschlechtsmarke zu ändern. Ist und war Geschichte. Das ist ein Riesenerfolg für uns, für das Gericht. Man hat immer noch Kosten, aber man hat sehr viel weniger Kosten. Den Namen verändern zu können, das hat eine Riesenaufwirkung. Da muss man sich nicht mehr immer Sorgen machen, wenn man das GA zeigen muss.
