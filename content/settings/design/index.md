@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/leaves-8504392_1280.jpg"
+logo = "/media/leaves-8504392_1280.jpg"
+image = "/media/leaves-8504392_1280.jpg"
 color = "#5a4ae3"
 +++
