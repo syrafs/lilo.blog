@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/leaves-8504392_1280.jpg"
-logo = "/media/leaves-8504392_1280.jpg"
-image = "/media/leaves-8504392_1280.jpg"
+icon = "/media/aurora-borealis-4965488_1280.jpg"
+logo = "/media/aurora-borealis-4965488_1280.jpg"
+image = "/media/aurora-borealis-4965488_1280.jpg"
 color = "#5a4ae3"
 +++
